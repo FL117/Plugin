@@ -24,6 +24,13 @@ Permet d'afficher dans une zone de texte les caractères spéciaux associés à 
 
 * **Spécification** : Sur le pavé numérique, les touches "0", "1", "2", "3" et "4" enfoncées affichent d'autres caractères spéciaux (les « alt codes »), comme par exemple des flèches, des notes de musique, des smileys…
 
+
+
+### Test :
+
+![alt text](https://www.zupimages.net/up/18/03/a5ur.png)
+
+
 ### Note : Pour changer le style de la bulle dans le css :
 ```
 appuiLong-popup
