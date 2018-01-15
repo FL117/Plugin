@@ -8,6 +8,7 @@
 <script src="js/longPress.js"></script> 
 ```
 <br/>
+
 ## Faciliter l'insertion de caractères spéciaux
 Permet d'afficher dans une zone de texte les caractères spéciaux associés à une lettre. Ces caractères spéciaux apparaissent dans une bulle.
 
