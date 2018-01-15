@@ -1,4 +1,4 @@
-# Plugin - Caractères spéciaux
+# Plugin - Bulle caractères spéciaux
 
 ### Prérequis
 
