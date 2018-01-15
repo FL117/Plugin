@@ -31,7 +31,8 @@ Permet d'afficher dans une zone de texte les caractères spéciaux associés à 
 ![alt text](https://www.zupimages.net/up/18/03/a5ur.png)
 
 
-### Note : Pour changer le style de la bulle dans le css :
+
+### Note - Pour changer le style de la bulle dans le css :
 ```
 appuiLong-popup
 ```
