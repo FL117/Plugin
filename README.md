@@ -39,6 +39,8 @@ Permet d'afficher dans une zone de texte les caractères spéciaux associés à 
 appuiLong-popup
 ```
 
+<br/>
+
 ## Auteur
 
 - Fabien Mazuel (mazuel.fabien@gmail.com)
