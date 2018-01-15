@@ -26,9 +26,13 @@ Permet d'afficher dans une zone de texte les caractères spéciaux associés à 
 
 
 
-### Test :
+### Exemple d'utilisation classique :
 
 ![alt text](https://www.zupimages.net/up/18/03/a5ur.png)
+
+
+### Exemple d'utilisation avec les alt codes :
+![alt text](https://zupimages.net/up/18/03/iyam.png)
 
 
 
