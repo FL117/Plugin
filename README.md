@@ -1,6 +1,11 @@
 # Plugin - Caractères spéciaux
 
-
+### Prérequis
+```
+<link rel="stylesheet" href="css/style.css">       
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="js/longPress.js"></script> 
+```
 
 Plugin - Caractères Spéciaux
 
@@ -19,14 +24,7 @@ Permet d'afficher dans une zone de texte les caractères spéciaux associés à 
 
 * **Spécification** : Sur le pavé numérique, les touches "0", "1", "2", "3" et "4" enfoncées affichent d'autres caractères spéciaux (les « alt codes »), comme par exemple des flèches, des notes de musique, des smileys…
 
-### Prérequis
-```
-<link rel="stylesheet" href="css/style.css">       
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script src="js/jquery.js"></script> 
-```
-
-### Changer le style de la bulle dans le css :
+### Note : Pour changer le style de la bulle dans le css :
 ```
 appuiLong-popup
 ```
