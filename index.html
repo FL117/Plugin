@@ -6,7 +6,7 @@
         <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/style.css">       
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-        <script src="js/longPress.js"></script>  
+        <script src="js/jquery.js"></script>  
     </head>
 
     <body>     
@@ -16,14 +16,14 @@
         <form>
             <div class="section"><span>1</span>Prénom &amp; Adresse</div>
             <div class="inner-wrap">
-                <label>Prénom, nom <input type="text" name="field1" /></label>
-                <label>Adresse <textarea name="field2"></textarea></label>
+                <label>Prénom, nom <input type="text" class="appuiLong" name="field1" /></label>
+                <label>Adresse <textarea class="appuiLong" name="field2"></textarea></label>
             </div>
 
             <div class="section"><span>2</span>Mail &amp; Téléphone</div>
             <div class="inner-wrap">
-                <label>Adresse mail <input type="email" name="field3" /></label>
-                <label>Numéro de téléphone <input type="text" name="field4" /></label>
+                <label>Adresse mail <input type="email" class="appuiLong" name="field3" /></label>
+                <label>Numéro de téléphone <input type="text" class="appuiLong" name="field4" /></label>
             </div>
 
             <div class="section"><span>3</span>Mot de passe</div>
@@ -37,7 +37,6 @@
              <input type="checkbox" name="field7">En envoyant ce formulaire, vous donnez votre acoord sur les conditions générales. 
              </span>
             </div>
-            <textarea name="field2"></textarea>
         </form>
         </div>
     </body>
